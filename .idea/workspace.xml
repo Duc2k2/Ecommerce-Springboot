@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dc19c82-931c-4409-9199-ae0c34e9f426" name="Changes" comment="Set up project">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1dc19c82-931c-4409-9199-ae0c34e9f426" name="Changes" comment="Set up project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +108,7 @@
       <workItem from="1681558903333" duration="415000" />
       <workItem from="1681581774201" duration="52000" />
       <workItem from="1681584845568" duration="688000" />
-      <workItem from="1681646666047" duration="1290000" />
+      <workItem from="1681646666047" duration="1605000" />
     </task>
     <task id="LOCAL-00001" summary="Set up project">
       <created>1681200622480</created>
